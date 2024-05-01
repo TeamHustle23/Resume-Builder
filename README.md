@@ -1,6 +1,6 @@
 # Resume Builder
 
-This project is a Resume Builder Webiste developed using React.js for the frontend.
+This project is a Resume Builder Webiste developed using React.js.
 
 ## Features
 
